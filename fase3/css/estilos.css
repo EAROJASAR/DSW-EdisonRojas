@@ -95,3 +95,13 @@ main{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.text1 {
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
